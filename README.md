@@ -10,7 +10,7 @@
 ## How to install
 
 1. git clone https://github.com/iamRajatSharma/CRUD-APP-Laravel-.git<br>
-2. cd ./URL-Shortener
+2. cd ./CRUD-APP-Laravel
 3. composer update
 
 
