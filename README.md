@@ -22,4 +22,4 @@
 
 ## How to start project
 
-1. php artisan server
+1. php artisan serve
